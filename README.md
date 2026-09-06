@@ -1,7 +1,6 @@
 # google-cybersecurity-labs
 
 Hands-on Linux and security lab notes from my Google Cybersecurity Certificate.
-
 Each folder is a lab: the commands I used and what I checked next.
 This is practice work from guided labs, not a production environment.
 
