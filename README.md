@@ -9,3 +9,5 @@ This is practice work from guided labs, not a production environment.
 | Folder | What I practiced |
 |---|---|
 | [linux-apt-suricata-tcpdump](linux-apt-suricata-tcpdump/) | Install and remove packages with APT (Suricata + tcpdump) |
+
+| [sql-filters](sql-filters/) | Filtered login attempts and employee machines with AND, OR, NOT, and LIKE |
