@@ -8,7 +8,8 @@ Practice filtering login attempts and employee records with WHERE, AND, OR, NOT,
 - employees: employee_id, device_id, username, department, office
 
 ## Queries I used
-#After-hours failed logins (both conditions):
+After-hours failed logins (both conditions):
+```sql
 SELECT *
 FROM log_in_attempts
 WHERE login_time > '18:00'
